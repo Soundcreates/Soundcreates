@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Soundcreates
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning react.js
+- 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on  web development projects
-- 📫 How to reach me - hit me up on discord, my discord is randompookiedookie
+- 📫 How to reach me - email me!, my id: shantanav7@gmail.com
 
 
 <!---
