@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soundcreates
 - 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning ExpressJs, DSA-linkedlists
+- 🌱 I’m currently mastering ReactJS, DSA-Double linkedlists
 - 💞️ I’m looking to collaborate on  web development projects
 - 📫 How to reach me - email me!, my id: shantanav7@gmail.com
 
