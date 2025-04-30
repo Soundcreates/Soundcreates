@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @Soundcreates
 - 👀 I’m interested in full stack web development,aiml
 - 🌱 I’m currently mastering MongoDB, DSA-Double linkedlists
-- 💞️ I’m looking to collaborate on  web development projects
+- 💞️ I’m looking to collaborate on  web development project
 - 📫 How to reach me - email me!, my id: shantanav7@gmail.com
+- My resume: 
 
-
+[SHANTANAV_MUKHERJEE_Resume.pdf](https://github.com/user-attachments/files/19972063/SHANTANAV_MUKHERJEE_Resume.pdf)
 
 
 <!---
