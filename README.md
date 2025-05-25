@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Soundcreates
-- 👀 I’m interested in full stack web development,aiml
-- 🌱 I’m currently mastering MongoDB, DSA-Double linkedlists
+- 👀 I’m a MERN stack developer , interested in AIML
+- 🌱 I’m currently mastering React, DSA-Stacks and Queues
 - 💞️ I’m looking to collaborate on  web development project
 - 📫 How to reach me - email me!, my id: shantanav7@gmail.com
 - My resume: 
