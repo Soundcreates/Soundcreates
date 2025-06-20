@@ -46,7 +46,7 @@
 ### 🧠 Fun Facts
 - 🧙‍♂️ I love learning by building real projects
 - 🎮 Side hustle: Game dev in Roblox + Python automations
-- 🍳 I eat 4 eggs every day to hit my macros 💪
+- 🍳 I like the gym a bit much
 
 ---
 
