@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats
 
-![Shantanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=shantanavmukherjee&show_icons=true&theme=radical)
+![Shantanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soundcreates&show_icons=true&theme=radical)
 
 
 ---
@@ -22,7 +22,7 @@
 ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanavmukherjee&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soundcreates&layout=compact&theme=radical" />
 </p>
 
 ---
