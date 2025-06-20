@@ -1,13 +1,56 @@
-- 👋 Hi, I’m @Soundcreates
-- 👀 I’m a MERN stack developer , learning blockchain, interested in AIML
-- 🌱 I’m currently mastering MERN, learning Solidity,PostgresSQL,  DSA-Stacks and Queues
-- 💞️ I’m looking to collaborate on  web development project
-- 📫 How to reach me - email me!, my id: shantanav7@gmail.com
-- My resume: https://docs.google.com/document/d/1ECIgBykJWxQ8xO0_g4wLvqUPiUCBlLEs/edit?usp=sharing&ouid=114374617247196576395&rtpof=true&sd=true
+<h1 align="center">Hi 👋, I'm Shantanav Mukherjee</h1>
+<h3 align="center">🚀 Aspiring Full-Stack Developer | MERN | Blockchain | Python 🐍</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&center=true&width=435&lines=Passionate+Developer;MERN+Stack+Specialist;Learning+Web3+%26+Blockchain;Loves+Open+Source" alt="Typing SVG" />
+</p>
 
+---
 
-<!---
-Soundcreates/Soundcreates is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🧰 Tech Stack
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,ts,html,css,py,solidity,git,github,vscode&perline=8" />
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shantanavmukherjee&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shantanavmukherjee&theme=radical" />
+</p>
+
+---
+
+### 📈 Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanavmukherjee&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🎯 Current Focus
+- 🔨 Building MERN stack projects
+- 📚 Learning Web3 & Solidity
+- 🌱 Improving DSA with C++
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/shantanavmukherjee" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="mailto:youremail@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat" /></a>
+  <a href="https://portfolio.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&style=flat" /></a>
+</p>
+
+---
+
+### 🧠 Fun Facts
+- 🧙‍♂️ I love learning by building real projects
+- 🎮 Side hustle: Game dev in Roblox + Python automations
+- 🍳 I eat 4 eggs every day to hit my macros 💪
+
+---
+
+> _"Code it until you own it."_ 💻
+
