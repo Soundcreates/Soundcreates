@@ -36,8 +36,8 @@
 
 ### 📫 Connect with Me
 <p align="left">
-  <a href="[https://linkedin.com/in/shantanavmukherjee](https://www.linkedin.com/in/shantanav-mukherjee/)" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
-  <a href="mailto:shantanav7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat" /></a>
+  <a href="https://www.linkedin.com/in/shantanav-mukherjee/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat" /></a>
+  <a href="shantanav7@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-red?logo=gmail&style=flat" /></a>
   <a href="https://github.com/Soundcreates" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&style=flat" /></a>
 </p>
 
