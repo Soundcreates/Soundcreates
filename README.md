@@ -8,7 +8,7 @@
 ---
 
 ### 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,ts,html,css,py,solidity,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,ts,html,css,c,py,solidity,git,github,vscode&perline=8" />
 
 ---
 
