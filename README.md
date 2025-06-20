@@ -32,7 +32,7 @@
 ### 🎯 Current Focus
 - 🔨 Building MERN stack projects
 - 📚 Learning Web3 & Solidity
-- 🌱 Improving DSA with C++
+- 🌱 Improving DSA with Python
 
 ---
 
