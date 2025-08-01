@@ -10,12 +10,16 @@
 ### 🧰 Tech Stack
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,js,ts,html,css,c,py,solidity,hardhat,ethers,git,github,vscode&perline=8" />
 
+<p align="left">
+  <img src="https://raw.githubusercontent.com/NomicFoundation/hardhat/master/docs/.vuepress/public/img/hardhat-logo.svg" alt="Hardhat Logo" width="40"/>
+  <img src="https://raw.githubusercontent.com/ethers-io/ethers.js/master/docs/images/ethers.png" alt="Ethers.js Logo" width="40"/>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
 
 ![Shantanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soundcreates&show_icons=true&theme=radical)
-
 
 ---
 
@@ -51,4 +55,3 @@
 ---
 
 > _"Code it until you own it."_ 💻
-
