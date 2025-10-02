@@ -28,8 +28,8 @@
 ---
 
 ### 🎯 Current Focus
-- 🔨 Building MERN stack projects
-- 📚 Learning Web3 & Solidity
+- 🔨 Building Web3 projects
+- 📚 Learning Network Computing
 - 🌱 Improving DSA with C++
 
 ---
