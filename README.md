@@ -29,12 +29,6 @@
 
 ---
 
-### 🎯 Current Focus
-- 🔨 Building Web3 projects
-- 📚 Learning Network Computing
-- 🌱 Improving DSA with C++
-
----
 
 ### 📫 Connect with Me
 <p align="left">
@@ -45,11 +39,4 @@
 
 ---
 
-### 🧠 Fun Facts
-- 🧙‍♂️ I love learning by building real projects
-- 🎮 Side hustle: Game dev in Roblox + Python automations
-- 🍳 I like the gym a bit much
 
----
-
-> _"Code it until you own it."_ 💻
