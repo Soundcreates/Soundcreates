@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shantanav Mukherjee</h1>
 
-
+[![wakatime](https://wakatime.com/badge/user/8e9eed09-5e3e-487a-80d6-aa372159ea08.svg)](https://wakatime.com/@8e9eed09-5e3e-487a-80d6-aa372159ea08)
 
 <figure><embed src="https://wakatime.com/share/@8e9eed09-5e3e-487a-80d6-aa372159ea08/5ba8442b-496f-4adf-abef-115ceea63452.svg"></embed></figure>
 
