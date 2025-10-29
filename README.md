@@ -22,7 +22,7 @@
 
 
 ---
-https://github-profile-trophy.vercel.app/?username=Soundcreates
+[![trophy](https://github-profile-trophy.vercel.app/?username=Soundcreates&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📫 Connect with Me
 <p align="left">
