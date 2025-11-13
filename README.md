@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shantanav Mukherjee</h1>
+<h1 align="center">Hi, I'm Shantanav Mukherjee</h1>
+<p align = "center">I specialize in Full Stack development and Web3 Development</p>
 
 [![wakatime](https://wakatime.com/badge/user/8e9eed09-5e3e-487a-80d6-aa372159ea08.svg)](https://wakatime.com/@8e9eed09-5e3e-487a-80d6-aa372159ea08)
 
