@@ -16,11 +16,6 @@
 
 
 
----
-
-### 📊 GitHub Stats
-
-![Shantanav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soundcreates&show_icons=true&theme=radical)
 
 
 
