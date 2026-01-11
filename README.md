@@ -12,7 +12,7 @@
 
 
 ### 🧰 Tech Stack
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,tailwind,js,ts,html,css,c,py,solidity,go,rust,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=flutter,react,nodejs,express,mongodb,postgres,tailwind,js,ts,html,css,c,py,solidity,go,rust,git,github,vscode&perline=8" />
 
 
 
