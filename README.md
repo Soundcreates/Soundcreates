@@ -16,6 +16,7 @@
   <a href="#selected-projects">Projects</a> ·
   <a href="#open-source">Open source</a> ·
   <a href="#toolbox">Toolbox</a> ·
+  <a href="#current-learning-frontier">Learning frontier</a> ·
   <a href="#contact">Contact</a>
 </p>
 
