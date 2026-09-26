@@ -82,10 +82,6 @@
 
 <p align="center"><strong>AI systems</strong> · LangGraph · RAG · embeddings · evaluation<br/><strong>Backend</strong> · async workers · gRPC · event-driven services<br/><strong>Infrastructure</strong> · GitHub Actions · CI/CD · observability</p>
 
-## Community leadership
-
-**KJSSE CodeCell · Committee Head** — Delivered a two-day Go backend workshop and organized hackathons for 300+ students.
-
 ## What I’m learning next
 
 ML systems, distributed systems, operating-system internals, and performance engineering.
