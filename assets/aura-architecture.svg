@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">AURA high-level architecture</title>
+  <desc id="desc">Flutter clients connect to a NestJS API. The API persists to PostgreSQL and publishes events through Redis to a FastAPI AI service using LangGraph agents, which accesses Qdrant for vector retrieval.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0 0L10 5L0 10Z" fill="#e6e6e6"/></marker>
+    <marker id="arrow-start" markerWidth="10" markerHeight="10" refX="2" refY="5" orient="auto"><path d="M10 0L0 5L10 10Z" fill="#e6e6e6"/></marker>
+  </defs>
+  <rect width="1200" height="430" rx="20" fill="#0b0b0b"/>
+  <text x="48" y="52" fill="#f4f4f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">AURA · HIGH-LEVEL REQUEST AND INFERENCE FLOW</text>
+  <text x="48" y="77" fill="#a8a8a8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">A multi-service AI product with asynchronous agent execution and persistent state</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif">
+    <rect x="48" y="144" width="205" height="92" rx="14" fill="#151515" stroke="#8b8b8b" stroke-width="1.5"/>
+    <text x="70" y="179" fill="#f4f4f4" font-size="16" font-weight="700">Client apps</text>
+    <text x="70" y="205" fill="#bcbcbc" font-size="13">Flutter · Web</text>
+
+    <rect x="318" y="144" width="220" height="92" rx="14" fill="#151515" stroke="#f4f4f4" stroke-width="1.5"/>
+    <text x="340" y="179" fill="#f4f4f4" font-size="16" font-weight="700">NestJS API</text>
+    <text x="340" y="205" fill="#bcbcbc" font-size="13">Product backend · system of record</text>
+
+    <rect x="630" y="92" width="205" height="82" rx="14" fill="#151515" stroke="#8b8b8b" stroke-width="1.5"/>
+    <text x="652" y="126" fill="#f4f4f4" font-size="16" font-weight="700">Redis Pub/Sub</text>
+    <text x="652" y="151" fill="#bcbcbc" font-size="13">Event transport</text>
+
+    <rect x="630" y="234" width="205" height="92" rx="14" fill="#151515" stroke="#f4f4f4" stroke-width="1.5"/>
+    <text x="652" y="270" fill="#f4f4f4" font-size="16" font-weight="700">FastAPI AI service</text>
+    <text x="652" y="297" fill="#bcbcbc" font-size="13">Async workers · LangGraph</text>
+
+    <rect x="926" y="234" width="225" height="92" rx="14" fill="#151515" stroke="#8b8b8b" stroke-width="1.5"/>
+    <text x="948" y="270" fill="#f4f4f4" font-size="16" font-weight="700">Agent workflows</text>
+    <text x="948" y="297" fill="#bcbcbc" font-size="13">Workout · nutrition · recovery</text>
+
+    <rect x="318" y="302" width="220" height="82" rx="14" fill="#151515" stroke="#8b8b8b" stroke-width="1.5"/>
+    <text x="340" y="336" fill="#f4f4f4" font-size="16" font-weight="700">PostgreSQL</text>
+    <text x="340" y="361" fill="#bcbcbc" font-size="13">Persistent product data</text>
+
+    <rect x="926" y="92" width="225" height="82" rx="14" fill="#151515" stroke="#8b8b8b" stroke-width="1.5"/>
+    <text x="948" y="126" fill="#f4f4f4" font-size="16" font-weight="700">Qdrant</text>
+    <text x="948" y="151" fill="#bcbcbc" font-size="13">Vector retrieval</text>
+  </g>
+
+  <g fill="none" stroke="#e6e6e6" stroke-width="2" marker-end="url(#arrow)">
+    <path d="M253 190H310"/>
+    <path d="M538 162L622 132"/>
+    <path d="M538 218L622 272"/>
+    <path d="M835 280H918"/>
+    <path d="M428 236V294"/>
+  </g>
+  <path d="M835 264L918 166" fill="none" stroke="#b5b5b5" stroke-width="2" marker-start="url(#arrow-start)" marker-end="url(#arrow)"/>
+  <text x="545" y="119" fill="#a8a8a8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">publish</text>
+  <text x="548" y="260" fill="#a8a8a8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11">AI request</text>
+</svg>
