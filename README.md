@@ -1,10 +1,10 @@
 ![Shantanav Mukherjee — AI systems, backend, and infrastructure](assets/profile-banner.svg)
 
 <p align="center">
-  <a href="https://shantanav.in"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="28" height="28" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/shantanav-mukherjee/"><img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:shantanav7@gmail.com"><img src="https://cdn.simpleicons.org/gmail/FFFFFF" width="28" height="28" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Soundcreates"><img src="https://cdn.simpleicons.org/github/FFFFFF" width="28" height="28" alt="GitHub" /></a>
+  <a href="https://shantanav.in"><img src="assets/icons/vercel.svg" width="28" height="28" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/shantanav-mukherjee/"><img src="assets/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:shantanav7@gmail.com"><img src="assets/icons/gmail.svg" width="28" height="28" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Soundcreates"><img src="assets/icons/github.svg" width="28" height="28" alt="GitHub" /></a>
 </p>
 
 <p align="center"><strong>AI Systems · Backend · Infrastructure</strong><br/>Computer Science · KJ Somaiya School of Engineering · Mumbai, India · Class of 2028</p>
@@ -86,27 +86,24 @@
 ## Toolkit
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/python/FFFFFF" width="34" height="34" alt="Python" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/go/FFFFFF" width="34" height="34" alt="Go" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/rust/FFFFFF" width="34" height="34" alt="Rust" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/typescript/FFFFFF" width="34" height="34" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/postgresql/FFFFFF" width="34" height="34" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/redis/FFFFFF" width="34" height="34" alt="Redis" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/FFFFFF" width="34" height="34" alt="Docker" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/kubernetes/FFFFFF" width="34" height="34" alt="Kubernetes" />&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/linux/FFFFFF" width="34" height="34" alt="Linux" />
+  <img src="assets/icons/python.svg" width="34" height="34" alt="Python" />&nbsp;&nbsp;
+  <img src="assets/icons/go.svg" width="34" height="34" alt="Go" />&nbsp;&nbsp;
+  <img src="assets/icons/rust.svg" width="34" height="34" alt="Rust" />&nbsp;&nbsp;
+  <img src="assets/icons/typescript.svg" width="34" height="34" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="assets/icons/postgresql.svg" width="34" height="34" alt="PostgreSQL" />&nbsp;&nbsp;
+  <img src="assets/icons/redis.svg" width="34" height="34" alt="Redis" />&nbsp;&nbsp;
+  <img src="assets/icons/docker.svg" width="34" height="34" alt="Docker" />&nbsp;&nbsp;
+  <img src="assets/icons/kubernetes.svg" width="34" height="34" alt="Kubernetes" />&nbsp;&nbsp;
+  <img src="assets/icons/linux.svg" width="34" height="34" alt="Linux" />
 </p>
 
 <p align="center"><strong>AI systems</strong> · LangGraph · RAG · embeddings · evaluation<br/><strong>Backend</strong> · async workers · gRPC · event-driven services<br/><strong>Infrastructure</strong> · GitHub Actions · CI/CD · observability</p>
 
-## GitHub activity
+## Open-source snapshot
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Soundcreates&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0B0B0B&amp;title_color=FFFFFF&amp;text_color=BDBDBD&amp;icon_color=FFFFFF" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soundcreates&amp;layout=compact&amp;langs_count=6&amp;hide_border=true&amp;bg_color=0B0B0B&amp;title_color=FFFFFF&amp;text_color=BDBDBD" alt="Most used languages" />
-</p>
+<p align="center"><img src="assets/contribution-snapshot.svg" width="100%" alt="Seven merged upstream pull requests across five repositories, plus four open contributions." /></p>
 
-<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Soundcreates&amp;bg_color=0B0B0B&amp;color=FFFFFF&amp;line=888888&amp;point=FFFFFF&amp;area=true&amp;hide_border=true" width="100%" alt="GitHub contribution activity over time" /></p>
+<p align="center"><a href="https://github.com/Soundcreates?tab=repositories">Browse repositories</a> · <a href="https://github.com/pulls?q=is%3Apr+author%3ASoundcreates">Browse pull requests</a></p>
 
 ## Focus
 
