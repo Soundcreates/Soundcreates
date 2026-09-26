@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="238" viewBox="0 0 1200 238" role="img" aria-labelledby="title desc">
+  <title id="title">Open-source contribution snapshot</title>
+  <desc id="desc">Seven merged upstream pull requests across five repositories, plus four open contributions.</desc>
+  <rect x="1" y="1" width="1198" height="236" rx="20" fill="#0b0b0b" stroke="#383838" stroke-width="2"/>
+  <path d="M400 34v170M800 34v170" stroke="#333" stroke-width="1"/>
+  <text x="52" y="48" fill="#a8a8a8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2">OPEN-SOURCE SNAPSHOT</text>
+  <text x="52" y="111" fill="#f2f2f2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" letter-spacing="-2">07</text>
+  <text x="130" y="94" fill="#f2f2f2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">MERGED UPSTREAM PRS</text>
+  <text x="130" y="117" fill="#a8a8a8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Fixes and improvements adopted upstream</text>
+  <path d="M52 154h306" stroke="#3a3a3a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M52 154h306" stroke="#f2f2f2" stroke-width="4" stroke-linecap="round" stroke-dasharray="43 1"/>
+  <text x="52" y="190" fill="#c5c5c5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing=".5">GOOGLE ADK GO · GVISOR · ORAS · HUGO · VELLO</text>
+
+  <text x="452" y="111" fill="#f2f2f2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" letter-spacing="-2">04</text>
+  <text x="530" y="94" fill="#f2f2f2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">OPEN CONTRIBUTIONS</text>
+  <text x="530" y="117" fill="#a8a8a8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Changes currently listed for review</text>
+  <path d="M452 154h306" stroke="#3a3a3a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M452 154h204" stroke="#f2f2f2" stroke-width="4" stroke-linecap="round"/>
+  <text x="452" y="190" fill="#c5c5c5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing=".5">ORAS · KIND · KUBEFLOW · GOOGLE ADK GO</text>
+
+  <text x="852" y="111" fill="#f2f2f2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="54" font-weight="750" letter-spacing="-2">05</text>
+  <text x="930" y="94" fill="#f2f2f2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="1">UPSTREAM REPOSITORIES</text>
+  <text x="930" y="117" fill="#a8a8a8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Across Go, systems, and developer tooling</text>
+  <path d="M852 154h306" stroke="#3a3a3a" stroke-width="4" stroke-linecap="round"/>
+  <path d="M852 154h306" stroke="#f2f2f2" stroke-width="4" stroke-linecap="round" stroke-dasharray="5 12"/>
+  <text x="852" y="190" fill="#c5c5c5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" letter-spacing=".5">5 UPSTREAM PROJECTS IN THE PROFILE</text>
+</svg>
