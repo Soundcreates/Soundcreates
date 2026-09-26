@@ -190,19 +190,6 @@ The main engineering lesson was that a fast path is only useful when it remains 
 
 </details>
 
-### More projects
-
-<details>
-<summary><strong>Applied AI, data, and geospatial projects</strong></summary>
-
-| Project | What it explores |
-|---|---|
-| [EduAid](https://github.com/Soundcreates/EduAid) | A browser extension and web app for generating revision quizzes from learning material, including a local quantized Qwen3-0.6B question-generation path. |
-| [Canopy](https://github.com/Soundcreates/Canopy) | A forest registry that combines Sentinel-2 imagery, Google Earth Engine, and NDVI computation with a web service and smart contracts. |
-| [Synapse Ledger](https://github.com/Soundcreates/Synapse) | A prototype data marketplace for AI training that explores dataset provenance, decentralized storage, and on-chain royalty distribution. |
-
-</details>
-
 ## Open source
 
 I enjoy working in established codebases where a small, well-tested change can improve behavior for many downstream users. The snapshot below reflects the PRs listed here; statuses were checked on 26 September 2026.
@@ -259,17 +246,6 @@ I enjoy working in established codebases where a small, well-tested change can i
 | Data | PostgreSQL, Redis, MongoDB, Qdrant, Chroma |
 | Systems and infrastructure | Linux, Rust and WebAssembly, WGSL and WebGPU, Docker, Kubernetes, GitHub Actions |
 | Product surfaces | React, Flutter, TypeScript |
-
-## Current learning frontier
-
-My focus is moving deeper into core machine learning and the systems underneath it.
-
-- **Core ML:** data quality, model behavior, evaluation design, and understanding why a model improves rather than only how to call it.
-- **ML systems:** retrieval, inference workflows, serving costs, throughput, and the operational shape of AI features.
-- **Operating systems and networking:** processes, memory, scheduling, sockets, and the path from an application call to the machine doing the work.
-- **Performance engineering:** profiling first, identifying the actual bottleneck, and choosing the right CPU, GPU, or data-path optimization.
-
-I’m most interested in projects that connect these layers: a model with a measurable quality target, a service that can run it reliably, and an implementation whose performance can be explained.
 
 ## Contact
 
