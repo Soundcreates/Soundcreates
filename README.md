@@ -16,6 +16,11 @@ My work spans AI application engineering and lower-level systems work. At Craon 
 
 ## Engineering experience
 
+### Formial Labs — Forward Deployed Engineer · Aug 2026–present
+
+- Built WhatsApp AI-agent workflows with SagePilot, intent routing, structured tool calls, and backend API integrations.
+- Integrated Razorpay payment initiation, transaction verification, and status handling so natural-language requests could run through reliable payment workflows.
+
 ### Craon AI — Full Stack AI Engineer Intern · Jun–Aug 2026
 
 - Built a Rust/WebAssembly rendering pipeline shared by browser previews and backend exports, eliminating preview/export drift.
