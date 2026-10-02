@@ -75,41 +75,6 @@ I’ve built multi-service AI products, contributed fixes to established open so
 
 <p>The two ETH Mumbai results were earned with Team OmShantyOm for VCR Protocol.</p>
 
-## Experience
-
-### Formial Labs · Forward Deployed Engineer
-<sub>August 2026–present</sub>
-
-I build AI workflows that connect conversational interfaces to business operations.
-
-- Implemented WhatsApp agent workflows with SagePilot, including intent routing, structured tool calls, and backend API integrations.
-- Integrated Razorpay payment initiation, transaction verification, and status handling into the workflows.
-- Worked across the product boundary: translating operational needs into agent behavior and dependable service interactions.
-
-### Craon AI · Full Stack AI Engineer Intern
-<sub>June–August 2026</sub>
-
-I worked on the video pipeline behind browser previews and exported videos.
-
-- Built a shared Rust and WebAssembly rendering core for browser previews and backend exports, reducing preview and export drift.
-- Added GPU parallelization to the rendering path, reducing render latency by <strong>40%</strong>.
-- Worked across Rust, WebAssembly, GPU execution, and the application surface that uses the renderer.
-
-<details>
-<summary><strong>How the shared rendering path fits together</strong></summary>
-
-Both preview and export use the same rendering core. The core can use a GPU path when available and a CPU fallback when it is not.
-
-~~~mermaid
-flowchart LR
-    preview["Browser preview"] --> core["Rust and WebAssembly core"]
-    export["Backend export"] --> core
-    core --> gpu["GPU path"]
-    core --> cpu["CPU fallback"]
-~~~
-
-</details>
-
 ## Open source
 
 I enjoy working in established codebases where a small, well-tested change can improve behavior for many downstream users. The snapshot below reflects the PRs listed here; statuses were checked on 26 September 2026.
