@@ -1,26 +1,4 @@
-![Shantanav Mukherjee — AI systems, backend, and infrastructure](assets/profile-banner.svg)
 
-<p align="center">
-  <a href="https://shantanav.in"><img src="assets/icons/vercel.svg" width="28" height="28" alt="Portfolio" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/shantanav-mukherjee/"><img src="assets/icons/linkedin.svg" width="28" height="28" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:shantanav7@gmail.com"><img src="assets/icons/gmail.svg" width="28" height="28" alt="Email" /></a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Soundcreates"><img src="assets/icons/github.svg" width="28" height="28" alt="GitHub" /></a>
-</p>
-
-<p align="center"><strong>AI Systems · Backend · Infrastructure · Performance</strong><br/>Computer Science, KJ Somaiya School of Engineering · Mumbai, India · Class of 2028</p>
-
-<p align="center">
-  <a href="#overview">Overview</a> ·
-  <a href="#awards">Awards</a> ·
-  <a href="#experience">Experience</a> ·
-  <a href="#selected-projects">Projects</a> ·
-  <a href="#open-source">Open source</a> ·
-  <a href="#toolbox">Toolbox</a> ·
-  <a href="#current-learning-frontier">Learning frontier</a> ·
-  <a href="#contact">Contact</a>
-</p>
-
----
 
 ## Overview
 
