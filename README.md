@@ -1,7 +1,3 @@
-
-
-## Overview
-
 I’m Shantanav, a computer science student and engineer interested in what happens behind useful AI products: agent workflows, retrieval and evaluation, backend services, data movement, and the runtime that makes software fast and reliable.
 
 I’ve built multi-service AI products, contributed fixes to established open source projects, and worked on a Rust and WebAssembly rendering pipeline that reduced render latency by 40%. I’m deliberately going deeper into core machine learning, operating-system internals, networking, and performance engineering.
